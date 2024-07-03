@@ -1,5 +1,5 @@
 {
-  "name": "dapr/php-sdk",
+  "name": "stjude/dapr-php-sdk",
   "type": "library",
   "description": "Dapr Implementation in PHP",
   "license": "MIT",
